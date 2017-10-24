@@ -5,8 +5,13 @@ import './App.css';
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        JOB IS https://jobis.io
+      <div>
+        <h1>
+          JOB IS https://jobis.io
+        </h1>
+        <p>
+          We should buy the domain
+        </p>
       </div>
     );
   }
